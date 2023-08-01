@@ -451,11 +451,12 @@ footer p {
     }
 
     .cards label {
-        width: 50%;
+        width: 40%;
     }
 
     .card .image img {
         height: 200px;
+        margin-bottom: 10px;
     }
 
     .card .infos {
@@ -542,7 +543,7 @@ footer p {
     .cards label {
       width: 100%;
     }
-    
+       
     .card .image img {
       width: 100%;
       height: auto;
